@@ -56,9 +56,8 @@ plt.show()
 
 ## Output:
 
-![GitHub Logo](./s1.png)
-![GitHub Logo](./s2.png)
-![GitHub Logo](./s3.png)
+![GitHub Logo](./s4.png)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
